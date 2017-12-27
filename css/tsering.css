@@ -57,11 +57,28 @@
   font-weight: 400;
 }
 
-.linkedin {
+.link-box {
   position: fixed;
-  left: 6px;
+  left: 15px;
   right: 0px;
-  bottom: 6px;
-  color: #555;
+  bottom: 15px;
   text-align: left;
+}
+
+.link-box._2 {
+  margin-left: 59px;
+}
+
+.link {
+  padding-right: 15px;
+  color: #555;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #999;
+}
+
+.link:active {
+  color: #fff;
 }
