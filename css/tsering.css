@@ -1,6 +1,6 @@
 .cicero {
   max-width: 110px;
-  margin-top: 300px;
+  margin-top: 276px;
 }
 
 .container {
@@ -52,6 +52,7 @@
 }
 
 .hi {
+  margin-top: 40px;
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   color: #fff;
   font-weight: 700;
