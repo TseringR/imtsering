@@ -6,7 +6,7 @@
   font-weight: 700;
 }
 
-.loading1 {
+.loading {
   position: fixed;
   z-index: 2;
   display: none;
