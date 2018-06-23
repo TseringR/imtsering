@@ -856,7 +856,7 @@
   }
   .hero-bg-container {
     width: 85vw;
-    margin-top: 15vw;
+    margin-top: 4vh;
   }
   .bg-heading {
     font-size: 8vw;
@@ -867,7 +867,7 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    padding-top: 80px;
+    padding-top: 10px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
