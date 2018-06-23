@@ -950,6 +950,9 @@
   .bg-sub-text-copy-copy {
     font-size: 13px;
   }
+  .div-block-9{
+    display: none;
+  }
 }
 
 @font-face {
