@@ -111,7 +111,7 @@
 
 .bg-heading {
   margin-top: -0.8vw;
-  margin-bottom: 2vw;
+  margin-bottom: 1.2vw;
   margin-left: -6px;
   color: #e8e8e9;
   font-size: 5vw;
@@ -701,8 +701,9 @@
     width: 75vw;
   }
   .bg-heading {
-    margin-bottom: 4vw;
     font-size: 6vw;
+    line-height: 21px;
+
   }
   .bg-heading._2 {
     padding-left: 5vw;
@@ -859,6 +860,7 @@
   }
   .bg-heading {
     font-size: 8vw;
+    margin-bottom: 2.2vw;
   }
   .bg-sub {
     display: -webkit-box;
