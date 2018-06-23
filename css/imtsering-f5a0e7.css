@@ -242,15 +242,16 @@
   margin-bottom: 14px;
   float: left;
   background-color: #6c51f6;
+  margin-left: -50px;
 }
 
 .heading-2 {
   margin-top: 0px;
   margin-bottom: 0px;
   padding-right: 16px;
-  padding-left: 16px;
   color: #e8e8e9;
   font-size: 24px;
+  margin-left: 50px;
 }
 
 .div-block-3 {
